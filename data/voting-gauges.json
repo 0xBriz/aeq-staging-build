@@ -1,0 +1,196 @@
+[
+  {
+    "address": "0xaCC31d29022C8Eb2683597bF4c07De228Ed9EA07",
+    "network": 56,
+    "pool": {
+      "id": "0xb3a07a9cef918b2ccec4bc85c6f2a7975c5e83f9000000000000000000000001",
+      "address": "0xb3A07a9CeF918b2ccEC4bC85C6F2A7975c5E83f9",
+      "poolType": "Weighted",
+      "symbol": "BUSD-USDC-USDT",
+      "tokens": [
+        {
+          "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+          "weight": "0.5",
+          "symbol": "BUSD"
+        },
+        {
+          "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+          "weight": "0.25",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x55d398326f99059fF775485246999027B3197955",
+          "weight": "0.25",
+          "symbol": "USDT"
+        }
+      ]
+    },
+    "tokenLogoURIs": {
+      "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766",
+      "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
+      "0x55d398326f99059fF775485246999027B3197955": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
+    }
+  },
+  {
+    "address": "0xDA9D57cAabBe48301d71b7eEaf546B4A206118d3",
+    "network": 56,
+    "pool": {
+      "id": "0x9aa867870d5775a3c155325db0cb0b116bbf4b6a000200000000000000000002",
+      "address": "0x9AA867870d5775A3C155325DB0cb0B116bbF4b6a",
+      "poolType": "Weighted",
+      "symbol": "AMES-BUSD",
+      "tokens": [
+        {
+          "address": "0xb9E05B4C168B56F73940980aE6EF366354357009",
+          "weight": "0.5",
+          "symbol": "AMES"
+        },
+        {
+          "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+          "weight": "0.5",
+          "symbol": "BUSD"
+        }
+      ]
+    },
+    "tokenLogoURIs": {
+      "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766",
+      "0xb9E05B4C168B56F73940980aE6EF366354357009": "https://assets.coingecko.com/coins/images/23973/small/ames.png?1645871205"
+    }
+  },
+  {
+    "address": "0x1dA7F4b2B9B644f307A313e304E1B061Eb605965",
+    "network": 56,
+    "pool": {
+      "id": "0x74154c70f113c2b603aa49899371d05eeedd1e8c000200000000000000000003",
+      "address": "0x74154c70F113C2B603aa49899371D05eeEDd1E8c",
+      "poolType": "Weighted",
+      "symbol": "BUSD-ASHARE",
+      "tokens": [
+        {
+          "address": "0xFa4b16b0f63F5A6D0651592620D585D308F749A4",
+          "weight": "0.75",
+          "symbol": "ASHARE"
+        },
+        {
+          "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+          "weight": "0.25",
+          "symbol": "BUSD"
+        }
+      ]
+    },
+    "tokenLogoURIs": {
+      "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766",
+      "0xFa4b16b0f63F5A6D0651592620D585D308F749A4": "https://assets.coingecko.com/coins/images/23974/small/ashare.png?1645871503"
+    }
+  },
+  {
+    "address": "0x34EA84d3565824573073b1A63057baf57f842F02",
+    "network": 56,
+    "pool": {
+      "id": "0x5ba2bc395b511ecf3f7c7f4f6c5de3c5586239ae000200000000000000000004",
+      "address": "0x5bA2bc395b511ECf3f7c7F4f6C5dE3c5586239aE",
+      "poolType": "Weighted",
+      "symbol": "WBNB-BUSD",
+      "tokens": [
+        {
+          "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "weight": "0.5",
+          "symbol": "WBNB"
+        },
+        {
+          "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+          "weight": "0.5",
+          "symbol": "BUSD"
+        }
+      ]
+    },
+    "tokenLogoURIs": {
+      "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766",
+      "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850"
+    }
+  },
+  {
+    "address": "0x00687547D75A2d1378984bE922e1450CcC89211E",
+    "network": 56,
+    "pool": {
+      "id": "0x0256c70b89b3c0ed888b7b7d7767a701b2a67bea000100000000000000000005",
+      "address": "0x0256c70b89b3c0ed888b7b7d7767a701b2a67bea",
+      "poolType": "Weighted",
+      "symbol": "WETH-BTC-BNB",
+      "tokens": [
+        {
+          "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+          "weight": "0.5",
+          "symbol": "WETH"
+        },
+        {
+          "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+          "weight": "0.5",
+          "symbol": "BTCB"
+        },
+        {
+          "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+          "weight": "0.5",
+          "symbol": "WBNB"
+        }
+      ]
+    },
+    "tokenLogoURIs": {
+      "0x2170Ed0880ac9A755fd29B2688956BD959F933F8": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
+      "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579",
+      "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850"
+    }
+  },
+  {
+    "address": "0xD105D7e65922e1ac725b799481c5c113cFfA2f0D",
+    "network": 56,
+    "pool": {
+      "id": "0xe53896c872b39fa3254262d18157447504b211de00020000000000000000000d",
+      "address": "0xe53896c872b39fa3254262d18157447504b211de",
+      "poolType": "Weighted",
+      "symbol": "wAALTO-BUSD",
+      "tokens": [
+        {
+          "address": "0x12b70d84DAb272Dc5A24F49bDbF6A4C4605f15da",
+          "weight": "0.8",
+          "symbol": "wAALTO"
+        },
+        {
+          "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+          "weight": "0.2",
+          "symbol": "BUSD"
+        }
+      ]
+    },
+    "tokenLogoURIs": {
+      "0x12b70d84DAb272Dc5A24F49bDbF6A4C4605f15da": "https://github.com/0xBriz/token-list/blob/1336217076f0fcfa734d52bea28fe5e0bfa6e549/images/waalto-token-round.png?raw=true",
+      "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850"
+    }
+  },
+  {
+    "address": "0x9721189e8ac5DD0011EaB1Ee7c25B24624b75801",
+    "network": 56,
+    "pool": {
+      "id": "0x276ab884805581b8e537c11e4906d545b295052f00020000000000000000000e",
+      "address": "0x276ab884805581B8e537c11e4906d545b295052F",
+      "poolType": "Weighted",
+      "symbol": "USDC-BNB",
+      "tokens": [
+        {
+          "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+          "weight": "0.5",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "weight": "0.5",
+          "symbol": "WBNB"
+        }
+      ]
+    },
+    "tokenLogoURIs": {
+      "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
+      "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850"
+    }
+  }
+]
