@@ -192,5 +192,49 @@
       "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
       "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850"
     }
+  },
+  {
+    "address": "0xc328f8308B915D7DCD7D65d9c0e0a225abb3A95f",
+    "network": 56,
+    "pool": {
+      "id": "0x835ff599b9388e4f733c165a15a93e736ebf91d3000100000000000000000017",
+      "address": "0x835ff599b9388e4f733C165a15a93e736ebf91D3",
+      "poolType": "Weighted",
+      "symbol": "AEQ-wAALTO-USDC-ASHARE-AMES",
+      "tokens": [
+        {
+          "address": "0x0dDef12012eD645f12AEb1B845Cb5ad61C7423F5",
+          "weight": "0.2",
+          "symbol": "AEQ"
+        },
+        {
+          "address": "0x12b70d84DAb272Dc5A24F49bDbF6A4C4605f15da",
+          "weight": "0.2",
+          "symbol": "wAALTO"
+        },
+        {
+          "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+          "weight": "0.2",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0xb9E05B4C168B56F73940980aE6EF366354357009",
+          "weight": "0.2",
+          "symbol": "AMES"
+        },
+        {
+          "address": "0xFa4b16b0f63F5A6D0651592620D585D308F749A4",
+          "weight": "0.2",
+          "symbol": "ASHARE"
+        }
+      ]
+    },
+    "tokenLogoURIs": {
+      "0x0dDef12012eD645f12AEb1B845Cb5ad61C7423F5": "https://github.com/0xBriz/token-list/blob/main/images/aeq_token.png?raw=true",
+      "0x12b70d84DAb272Dc5A24F49bDbF6A4C4605f15da": "https://github.com/0xBriz/token-list/blob/1336217076f0fcfa734d52bea28fe5e0bfa6e549/images/waalto-token-round.png?raw=true",
+      "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
+      "0xb9E05B4C168B56F73940980aE6EF366354357009": "https://assets.coingecko.com/coins/images/23973/small/ames.png?1645871205",
+      "0xFa4b16b0f63F5A6D0651592620D585D308F749A4": "https://assets.coingecko.com/coins/images/23974/small/ashare.png?1645871503"
+    }
   }
 ]

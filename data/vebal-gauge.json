@@ -1,22 +1,22 @@
 [
   {
-    "address": "0xE867AD0a48e8f815DC0cda2CDb275e0F163A480b",
-    "network": 5,
+    "address": "0x177cA62c024Aaa0c3c65F7c8BA283b824556DAB0",
+    "network": 56,
     "pool": {
-      "id": "0x5c6ee304399dbdb9c8ef030ab642b10820db8f56000200000000000000000014",
-      "address": "0x5c6ee304399dbdb9c8ef030ab642b10820db8f56",
+      "id": "0x7a09ddf458fda6e324a97d1a8e4304856fb3e702000200000000000000000000",
+      "address": "0x7a09ddF458FdA6e324A97D1a8E4304856fb3e702",
       "poolType": "Stable",
       "symbol": "veAEQ",
       "tokens": [
         {
-          "address": "0x3aB9D2bBDc2ce0412d7395a6c5F5fe5f27990b44",
+          "address": "0x06Aba6E8F69A0Be680f96D923EFB682E63Db6a9f",
           "weight": "null",
           "symbol": "veAEQ"
         }
       ]
     },
     "tokenLogoURIs": {
-      "0x3aB9D2bBDc2ce0412d7395a6c5F5fe5f27990b44": "https://github.com/0xBriz/token-list/blob/main/images/aeq_token.png?raw=true"
+      "0x06Aba6E8F69A0Be680f96D923EFB682E63Db6a9f": "https://github.com/0xBriz/token-list/blob/main/images/aeq_token.png?raw=true"
     }
   }
 ]
