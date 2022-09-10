@@ -116,7 +116,7 @@
         "symbol": "BANDIT",
         "decimals": 18,
         "chainId": 56,
-        "address": "0xf22894d191212b6871182417df61ad832bce57c7",
+        "address": "0xf22894d191212b6871182417dF61aD832bCe57C7",
         "isProtocolToken": true,
         "coingeckoPlatformId": "",
         "logoURI": "https://github.com/0xBriz/token-list/blob/main/images/the_bandit_project_token.png?raw=true",
